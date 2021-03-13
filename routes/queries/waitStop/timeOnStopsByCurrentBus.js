@@ -10,14 +10,7 @@ let lenghtOfElastic;
 const sortArray = require('sort-array')
 
 
-router.get("/", async (req, res) => {
-    let hours = 0;
-    let minutes = 0;
-    let sec = 0;
-    let week = 0;
-    let day = 1;
-    let ROUTE_NUMBER = 701402;
-
+router.post("/", async (req, res) => {
     //get lenght of elastic index
     async function geLenght() {
         lenghtOfElastic = await elasticsearch_client.search({
@@ -165,16 +158,10 @@ router.get("/", async (req, res) => {
         });
 
     }
-    getIsOnStop(ROUTE_NUMBER, { week, day, hours, minutes, sec })
-
-    // if (req) {
-    //     // let time = req.body.time
-    //     // let ROUTE_NUMBER = req.body.ROUTE_NUMBER
-    //     // getIsOnStop(ROUTE_NUMBER ,time).then( 
-    //     //     res.send(querie)
-    //     // )
-
-    // }
+    console.log(req.body)
+    let ROUTE_NUMBER = req.body.ROUTE_NUMBER
+    let time_interval = req.body.time_interval
+    getIsOnStop(ROUTE_NUMBER, time_interval)
 });
 
 module.exports = router;

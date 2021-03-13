@@ -14,9 +14,9 @@ String.prototype.replaceAll = function (find, replace) {
     var str = this;
     return str.replace(new RegExp(find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'), 'g'), replace);
 };
+//const { getIsOnStop_By_Current_Stop } = require("./helperForCurrentStop")
 
-router.get("/", async (req, res) => {
-    //get lenght of elastic index
+router.post("/", async (req, res) => {
     async function geLenght() {
         lenghtOfElastic = await elasticsearch_client.search({
             index: "bst",
@@ -41,7 +41,7 @@ router.get("/", async (req, res) => {
     let counter = 0;
     let current_doc;
     let finalResult = [];
-
+    
     function miliseconds(week, day, hrs, min, sec) {
         //from hours
         return (
@@ -49,7 +49,7 @@ router.get("/", async (req, res) => {
             1000
         );
     }
-
+    
     function getIsOnStop_By_Current_Stop(Current_Stop, time) {
         let CS = Current_Stop
         const es_stream = new ElasticsearchScrollStream(elasticsearch_client, {
@@ -79,7 +79,7 @@ router.get("/", async (req, res) => {
                 },
             },
         });
-
+    
         es_stream.on("data", function (data) {
             current_doc = JSON.parse(data.toString());
             if (counter == stopCounterIndex) {
@@ -88,7 +88,7 @@ router.get("/", async (req, res) => {
             counter++;
             if (current_doc.geometry) finalResult.push(current_doc);
         });
-
+    
         es_stream.on("end", async function () {
             let result = finalResult
             //Filter
@@ -106,17 +106,17 @@ router.get("/", async (req, res) => {
                     return acc;
                 }
             }, []);
-
+    
             let finalAcc = []
             filteredResult.map(e => { //getAll indexes witch are equal
                 let acc = []
                 for (let i = 0; i < result.length; i++)
                     if (_.isEqual(result[i].geometry.coordinates, e.geometry.coordinates))
                         acc.push(i);
-
+    
                 finalAcc.push({ coordinates: e.geometry.coordinates, acc: acc })
             })
-
+    
             let finalArray = []
             finalAcc.map(e => {
                 let array = e.acc
@@ -144,8 +144,8 @@ router.get("/", async (req, res) => {
             let obj2 = {};
             obj2.type = "FeatureCollection";
             obj2.name = "isOnStop";
-
-
+    
+    
             let aArray = []
             finalArray.map(e => {
                 console.log(e)
@@ -161,22 +161,20 @@ router.get("/", async (req, res) => {
                 }
             })
             obj2.features = aArray;
+            console.log(obj2)
             res.send(obj2)
+            //return obj2
         })
-
+    
         es_stream.on("error", function (err) {
             console.log(err);
         });
     }
+   
+    console.log(req.body)
+    let currentStop = req.body.Current_Stop
+    let time_interval = req.body.time_interval
 
-    let hours = 0;
-    let minutes = 0;
-    let sec = 0;
-    let week = 0;
-    let day = 1;
-    let currentStop = "Prešov,,AS "
-    getIsOnStop_By_Current_Stop(currentStop, { week, day, hours, minutes, sec })
-
+    getIsOnStop_By_Current_Stop(currentStop,time_interval)
 });
-
 module.exports = router;

@@ -64,56 +64,56 @@ schedule.scheduleJob('* 5 2 1 * *', function () {
   });
 
 router.get("/15min", async (req, res) => {
-    if (traffic15.length < 0)
+    if (traffic15.length === 0)
         traffic15 = require(`${path}_15minutes.json`);
     console.log(traffic15)
     res.send(traffic15);
 });
 
 router.get("/1hour", async (req, res) => {
-    if (traffic1hour.length < 0)
+    if (traffic1hour.length === 0)
         traffic1hour = require(`${path}_1hour.json`);
     console.log(traffic1hour)
     res.send(traffic1hour);
 });
 
 router.get("/3hours", async (req, res) => {
-    if (traffic3hours.length < 0)
+    if (traffic3hours.length === 0)
         traffic3hours = require(`${path}_3hours.json`);
     console.log(traffic3hours)
     res.send(traffic3hours);
 });
 
 router.get("/5-9", async (req, res) => {
-    if (traffic59.length < 0)
+    if (traffic59.length === 0)
         traffic59 = require(`${path}_5-9.json`);
     console.log(traffic59)
     res.send(traffic59);
 });
 
 router.get("/14-18", async (req, res) => {
-    if (traffic1418.length < 0)
+    if (traffic1418.length === 0)
         traffic1418 = require(`${path}_14-18.json`);
     console.log(traffic1418)
     res.send(traffic1418);
 });
 
 router.get("/1day", async (req, res) => {
-    if (traffic1day.length < 0)
+    if (traffic1day.length === 0)
         traffic1day = require(`${path}_1day.json`);
     console.log(traffic1day)
     res.send(traffic1day);
 });
 
 router.get("/1week", async (req, res) => {
-    if (traffic1week.length < 0)
+    if (traffic1week.length === 0)
         traffic1week = require(`${path}_1week.json`);
     console.log(traffic1week)
     res.send(traffic1week);
 });
 
 router.get("/1month", async (req, res) => {
-    if (traffic1month.length < 0)
+    if (traffic1month.length === 0)
         traffic1month = require(`${path}_1month.json`);
     console.log(traffic1month)
     res.send(traffic1month);

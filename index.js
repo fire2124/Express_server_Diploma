@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors')
 const app = express();
 const bodyParser = require('body-parser')
 require('events').EventEmitter.prototype._maxListeners = 100;
@@ -20,17 +21,19 @@ const getTimeOnCurrentStop = require('./routes/queries/waitStop/timeOnCurrentSto
 const getTimeOnStopsByCurrentBus = require('./routes/queries/waitStop/timeOnStopsByCurrentBus');
 const getPredictionQuery = require('./routes/queries/predictionsIsOnStop/predictionQuery');
 //static
-const Street  = require('./routes/static/street')
 const MhdStops  = require('./routes/static/stopsMhd')
 const SadStops  = require('./routes/static/stopsSAD')
 const TrainStops= require('./routes/static/stopsTrains')
 
 
+
+// use it before all route definitions
+app.use(cors({origin: '*'}));
+
 app.use(express.json());
 app.use(bodyParser.json({limit: '50mb'}));
 app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
 //static
-app.use("/api/v1/PresovStreets",Street)
 app.use("/api/v1/MhdStops",MhdStops)
 app.use("/api/v1/SadStops",SadStops)
 app.use("/api/v1/TrainStops",TrainStops)
@@ -53,7 +56,6 @@ app.use('/api/v1/timeOnCurrentStop', getTimeOnCurrentStop);
 app.use('/api/v1/timeOnStopsByCurrentBus', getTimeOnStopsByCurrentBus);
 //predictionQuery
 app.use('/api/v1/predictionQuery', getPredictionQuery);
-
 
 const port = 9600;
 app.listen(port, () => console.log(`Listening on port ${port}...`));
