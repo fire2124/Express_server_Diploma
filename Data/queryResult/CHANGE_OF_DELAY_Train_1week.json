@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","name":"CHANGE_OF_DELAY_Train_Aggregation","features":[{"name":"Feature","geometry":{"type":"Point","coordinates":[21.267127990722656,49.01658736992982]},"properties":[{"count":484,"min":0,"max":60,"avg":0.24793388429752067,"sum":120,"id":1321268}]},{"name":"Feature","geometry":{"type":"Point","coordinates":[21.249125003814697,48.983378538856925]},"properties":[{"count":1716,"min":-1380,"max":300,"avg":-0.9790209790209791,"sum":-1680,"id":1308532}]}]}
+{"type":"FeatureCollection","name":"CHANGE_OF_DELAY_Train_Aggregation","features":[]}

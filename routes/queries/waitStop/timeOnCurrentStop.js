@@ -4,7 +4,8 @@ const router = express.Router();
 const { Client } = require("@elastic/elasticsearch");
 const ElasticsearchScrollStream = require("elasticsearch-scroll-stream");
 const fs = require("fs");
-const elasticsearch_client = new Client({ node: "http://localhost:9200" });
+const { apiUrl } = require("../../../config.json");
+const elasticsearch_client = new Client({ node: apiUrl });
 let date = new Date();
 const _ = require("lodash");
 let lenghtOfElastic;
@@ -14,7 +15,6 @@ String.prototype.replaceAll = function (find, replace) {
     var str = this;
     return str.replace(new RegExp(find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'), 'g'), replace);
 };
-//const { getIsOnStop_By_Current_Stop } = require("./helperForCurrentStop")
 
 router.post("/", async (req, res) => {
     async function geLenght() {
@@ -163,7 +163,7 @@ router.post("/", async (req, res) => {
             obj2.features = aArray;
             console.log(obj2)
             res.send(obj2)
-            //return obj2
+            console.log(`timeOnCurrentStop`)
         })
     
         es_stream.on("error", function (err) {

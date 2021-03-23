@@ -1,13 +1,15 @@
 
 const express = require("express");
+const sortArray = require('sort-array')
+const _ = require("lodash");
 const router = express.Router();
 const { Client } = require("@elastic/elasticsearch");
 const ElasticsearchScrollStream = require("elasticsearch-scroll-stream");
-const elasticsearch_client = new Client({ node: "http://localhost:9200" });
+const fs = require("fs");
+const { apiUrl } = require("../../../config.json");
+const elasticsearch_client = new Client({ node: apiUrl });
 let date = new Date();
-const _ = require("lodash");
 let lenghtOfElastic;
-const sortArray = require('sort-array')
 
 
 router.post("/", async (req, res) => {
@@ -149,7 +151,7 @@ router.post("/", async (req, res) => {
             obj2.type = "FeatureCollection";
             obj2.name = "TimeOnStopsByCurrentBuss";
             obj2.features = finalArray;
-
+            console.log(`timeOnCurrentStopsByCurrentBus`)
             res.send(obj2)
         })
 

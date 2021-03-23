@@ -1,0 +1,384 @@
+{
+    "type": "FeatureCollection",
+    "name": "TimeOnStopsByCurrentBuss",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08944,
+                    49.1039
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:25:52.582Z",
+                "Current_Stop": "Sabinov,,AS",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08997,
+                    49.10379
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:26:52.590Z",
+                "Current_Stop": "Sabinov,,AS",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10127,
+                    49.10146
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:30:52.765Z",
+                "Current_Stop": "Sabinov Slov. spor.",
+                "seconds": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.14264,
+                    49.10784
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:38:38.023Z",
+                "Current_Stop": "Jakubovany Hasičská zbrojnica",
+                "seconds": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.14133,
+                    49.10399
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:39:53.046Z",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.14306,
+                    49.09657
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:41:08.081Z",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16379,
+                    49.10547
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:43:53.188Z",
+                "seconds": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17426,
+                    49.1116
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:45:53.193Z",
+                "seconds": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1673,
+                    49.10252
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:48:53.282Z",
+                "seconds": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18363,
+                    49.09038
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:53:08.417Z",
+                "Current_Stop": "Uzovce, dol. koniec",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18367,
+                    49.09039
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:56:38.493Z",
+                "Current_Stop": "Uzovce, dol. koniec",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16898,
+                    49.10145
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T18:59:38.609Z",
+                "seconds": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16497,
+                    49.10554
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T19:00:23.792Z",
+                "Current_Stop": "Šarišské Sokolovce, potraviny",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1427,
+                    49.10781
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-22T19:06:53.815Z",
+                "Current_Stop": "Jakubovany Hasičská zbrojnica",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08931,
+                    49.10396
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T03:22:38.634Z",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08935,
+                    49.1039
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T03:23:38.636Z",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.11453,
+                    49.08887
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T03:42:54.243Z",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19703,
+                    49.11245
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T11:26:08.619Z",
+                "Current_Stop": "Ratvaj",
+                "seconds": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1649,
+                    49.1056
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T11:31:22.716Z",
+                "Current_Stop": "Šarišské Sokolovce, potraviny",
+                "seconds": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.14391,
+                    49.09649
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T11:37:07.818Z",
+                "seconds": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1064,
+                    49.09895
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T11:48:53.118Z",
+                "Current_Stop": "Sabinov ul. Prešovská",
+                "seconds": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10168,
+                    49.10141
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T11:49:53.226Z",
+                "Current_Stop": "Sabinov Slov. spor.",
+                "seconds": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10148,
+                    49.10148
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T11:50:53.155Z",
+                "Current_Stop": "Sabinov Slov. spor.",
+                "seconds": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08946,
+                    49.10406
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T12:41:39.506Z",
+                "seconds": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08946,
+                    49.10403
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T12:42:24.533Z",
+                "seconds": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10131,
+                    49.10155
+                ]
+            },
+            "properties": {
+                "Time": "2021-03-23T12:47:09.622Z",
+                "Current_Stop": "Sabinov Slov. spor.",
+                "seconds": 44
+            }
+        }
+    ]
+}
