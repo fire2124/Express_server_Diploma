@@ -1,0 +1,577 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.88621, 48.92171]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "R 607 TATRAN",
+      "DELAY": 1020,
+      "Current_Stop": "Krompachy",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 88,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:44",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:27",
+      "From": "Bratislava hlavná stanica",
+      "To": "Košice",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.01324, 48.89469]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "REX 1762 ",
+      "DELAY": 180,
+      "Current_Stop": "Margecany",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -75,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:44",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:41",
+      "From": "Košice",
+      "To": "Poprad-Tatry",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.629827, 48.61264]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "REX 1909 ",
+      "DELAY": 0,
+      "Current_Stop": "Čeľovce",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 76,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:42",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:42",
+      "From": "Košice",
+      "To": "Humenné",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.86005, 48.79786]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "REX 1914 ",
+      "DELAY": 0,
+      "Current_Stop": "Petrovce nad Laborcom",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 138,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:45",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:45",
+      "From": "Humenné",
+      "To": "Košice",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.91384, 48.39032]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "REX 1965 ",
+      "DELAY": 180,
+      "Current_Stop": "Veľký Horeš",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 84,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:44",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:41",
+      "From": "Košice",
+      "To": "Čierna nad Tisou",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.94725, 48.85834]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 7426 ",
+      "DELAY": 0,
+      "Current_Stop": "Gelnica",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -120,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:31",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:31",
+      "From": "Margecany",
+      "To": "Nálepkovo",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.94725, 48.85834]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 7427 ",
+      "DELAY": 0,
+      "Current_Stop": "Gelnica",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 58,
+      "Order_In_Station": 1,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:35",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:35",
+      "From": "Nálepkovo",
+      "To": "Margecany",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.56151, 48.95041]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 7824 ",
+      "DELAY": 60,
+      "Current_Stop": "Spišská Nová Ves",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -85,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:41",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:40",
+      "From": "Košice",
+      "To": "Poprad-Tatry",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22393, 48.85288]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 7826 ",
+      "DELAY": 180,
+      "Current_Stop": "Kysak",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -87,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:38",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:35",
+      "From": "Košice",
+      "To": "Poprad-Tatry",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24601, 48.7958]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 7827 ",
+      "DELAY": 60,
+      "Current_Stop": "Kostoľany nad Hornádom",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 168,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:44",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:43",
+      "From": "Poprad-Tatry",
+      "To": "Košice",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.56151, 48.95041]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 7829 ",
+      "DELAY": 720,
+      "Current_Stop": "Spišská Nová Ves",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 143,
+      "Order_In_Station": 1,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:38",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:26",
+      "From": "Poprad-Tatry",
+      "To": "Košice",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.52637, 49.25529]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8328 ",
+      "DELAY": 120,
+      "Current_Stop": "Podolínec",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -115,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:34",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:32",
+      "From": "Stará Ľubovňa",
+      "To": "Poprad-Tatry",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.0886, 49.10324]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8524 ",
+      "DELAY": 0,
+      "Current_Stop": "Sabinov",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -71,
+      "Order_In_Station": 0,
+      "isOnStop": true,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:42",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:42",
+      "From": "Košice",
+      "To": "Lipany",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26872, 48.72291]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8526 ",
+      "DELAY": 240,
+      "Current_Stop": "Košice",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -26,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:40",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:36",
+      "From": "Košice",
+      "To": "Lipany",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.95992, 49.15203]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8527 ",
+      "DELAY": 1800,
+      "Current_Stop": "Lipany",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 103,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:33",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:03",
+      "From": "Lipany",
+      "To": "Košice",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.37178, 48.62929]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8826 ",
+      "DELAY": 300,
+      "Current_Stop": "Nižná Myšľa",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -63,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:39",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:34",
+      "From": "Čierna nad Tisou",
+      "To": "Košice",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.37178, 48.62929]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8827 ",
+      "DELAY": 180,
+      "Current_Stop": "Nižná Myšľa",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 55,
+      "Order_In_Station": 1,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:32",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:29",
+      "From": "Košice",
+      "To": "Čierna nad Tisou",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.92189, 49.13492]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 8927 ",
+      "DELAY": 0,
+      "Current_Stop": "Radvaň nad Laborcom",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -26,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:25",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:25",
+      "From": "Humenné",
+      "To": "Medzilaborce mesto",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.67169, 48.57716]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 9027 ",
+      "DELAY": 540,
+      "Current_Stop": "Úpor",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 37,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:40",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:31",
+      "From": "Michaľany",
+      "To": "Trebišov",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.56926, 48.98993]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 9127 ",
+      "DELAY": 0,
+      "Current_Stop": "Čierne nad Topľou",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 156,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:29",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:29",
+      "From": "Prešov",
+      "To": "Humenné",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.90119, 48.93015]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 9128 ",
+      "DELAY": 0,
+      "Current_Stop": "Humenné",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -112,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:40",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:40",
+      "From": "Humenné",
+      "To": "Prešov",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.172956, 48.983733]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 9428 ",
+      "DELAY": 0,
+      "Current_Stop": "Snina",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": -70,
+      "Order_In_Station": 0,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:41",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:41",
+      "From": "Stakčín",
+      "To": "Humenné",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.90119, 48.93015]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "Os 9429 ",
+      "DELAY": 0,
+      "Current_Stop": "Humenné",
+      "Dopravca": "Železničná spoločnosť Slovensko, a.s.",
+      "Angle": 73,
+      "Order_In_Station": 1,
+      "isOnStop": false,
+      "CasDay": "23.03.2021",
+      "CasTime": "17:37",
+      "CasPlanDay": "23.03.2021",
+      "CasPlanTime": "17:37",
+      "From": "Humenné",
+      "To": "Stakčín",
+      "Type": "Train",
+      "CHANGE_OF_DELAY": 0,
+      "Current_Time": 1616518096964
+    }
+  }
+]

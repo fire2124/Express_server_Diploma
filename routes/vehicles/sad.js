@@ -2,11 +2,12 @@ const express = require("express");
 const router = express.Router();
 const axios = require("axios");
 const firstJsonUrl = "http://localhost:9500/api/v1/currentSadPoBusses/firstJSON/1"
+const sad = require('../../Data/currentMocups/sad.json')
 
 router.get("/", async (req, res) => {
  // try {
-    let response = await axios.get(firstJsonUrl);
-    response = response.data;
+   // let response = await axios.get(firstJsonUrl);
+    //response = response.data;
   //   finalResponse = []
   //   response.map(e=>{
   //     let obj ={}
@@ -23,7 +24,9 @@ router.get("/", async (req, res) => {
   //   })
   // } catch (err) {
   // }
-  res.send(response);
+  //res.send(response);
+  res.send(sad);
+
 });
 
 module.exports = router;

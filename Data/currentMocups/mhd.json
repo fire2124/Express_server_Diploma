@@ -1,0 +1,1087 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.21248, 49.04134]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "45",
+      "PLANNED_START": "17:20",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 18,
+      "Current_Stop": "Bikoš",
+      "BUS_STOP_NUM_1": 131,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Šariš park",
+      "BUS_STOP_NUM_2": 530,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 1700,
+      "REAL_ROAD": 1700,
+      "DELAY": 107,
+      "VEHICLE_NUMBER": 358,
+      "Order_In_Json_Id": 1,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 9,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.32585, 49.02362]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "13",
+      "PLANNED_START": "17:20",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 19,
+      "Current_Stop": "Rázc. V. Šebastová",
+      "BUS_STOP_NUM_1": 545,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Kapanoš",
+      "BUS_STOP_NUM_2": 547,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 1200,
+      "REAL_ROAD": 896,
+      "DELAY": 54,
+      "VEHICLE_NUMBER": 365,
+      "Order_In_Json_Id": 2,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 12,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26352, 48.97776]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "28",
+      "PLANNED_START": "17:19",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 18,
+      "Current_Stop": "Škára",
+      "BUS_STOP_NUM_1": 529,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Lomnická",
+      "BUS_STOP_NUM_2": 61,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 1097,
+      "REAL_ROAD": 625,
+      "DELAY": -35,
+      "VEHICLE_NUMBER": 384,
+      "Order_In_Json_Id": 3,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -29,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.2424, 48.99522]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "12",
+      "PLANNED_START": "17:28",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 12,
+      "Current_Stop": "Na Hlavnej",
+      "BUS_STOP_NUM_1": 2,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Veľká pošta",
+      "BUS_STOP_NUM_2": 3,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 555,
+      "REAL_ROAD": 111,
+      "DELAY": 7,
+      "VEHICLE_NUMBER": 360,
+      "Order_In_Json_Id": 4,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 5,
+      "Street": "Okružná",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22514, 48.98701]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "27",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 13,
+      "Current_Stop": "Slávičia ",
+      "BUS_STOP_NUM_1": 514,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Ku Brezinám",
+      "BUS_STOP_NUM_2": 540,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 185,
+      "REAL_ROAD": 148,
+      "DELAY": 155,
+      "VEHICLE_NUMBER": 389,
+      "Order_In_Json_Id": 5,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 21,
+      "Street": "Dúhová",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23974, 48.99915]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "1",
+      "PLANNED_START": "17:35",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 7,
+      "Current_Stop": "Duklianska",
+      "BUS_STOP_NUM_1": 78,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Trojica",
+      "BUS_STOP_NUM_2": 1,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 500,
+      "REAL_ROAD": 500,
+      "DELAY": -73,
+      "VEHICLE_NUMBER": 732,
+      "Order_In_Json_Id": 6,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 6,
+      "Street": "Šarišská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23918, 49.00116]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "18",
+      "PLANNED_START": "17:40",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 4,
+      "Current_Stop": "Trojica",
+      "BUS_STOP_NUM_1": 1,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Poliklinika",
+      "BUS_STOP_NUM_2": 156,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 640,
+      "REAL_ROAD": 110,
+      "DELAY": -51,
+      "VEHICLE_NUMBER": 391,
+      "Order_In_Json_Id": 7,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 2,
+      "Street": "Okružná",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23919, 49.00211]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "45",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 11,
+      "Current_Stop": "Sabinovská",
+      "BUS_STOP_NUM_1": 126,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Trojica",
+      "BUS_STOP_NUM_2": 1,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 750,
+      "REAL_ROAD": 392,
+      "DELAY": -43,
+      "VEHICLE_NUMBER": 397,
+      "Order_In_Json_Id": 8,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -15,
+      "Street": "Čapajevova",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26522, 48.98891]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "8",
+      "PLANNED_START": "17:20",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 17,
+      "Current_Stop": "Martina Benku",
+      "BUS_STOP_NUM_1": 39,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Jurkovičova",
+      "BUS_STOP_NUM_2": 40,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 846,
+      "REAL_ROAD": 192,
+      "DELAY": -45,
+      "VEHICLE_NUMBER": 744,
+      "Order_In_Json_Id": 9,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 7,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22392, 49.00169]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "8",
+      "PLANNED_START": "17:40",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 6,
+      "Current_Stop": "Volgogradská",
+      "BUS_STOP_NUM_1": 188,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Clementisova",
+      "BUS_STOP_NUM_2": 187,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 350,
+      "REAL_ROAD": 350,
+      "DELAY": 39,
+      "VEHICLE_NUMBER": 727,
+      "Order_In_Json_Id": 10,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 8,
+      "Street": "Levočská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26393, 48.98453]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "19",
+      "PLANNED_START": "17:29",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 14,
+      "Current_Stop": "Lesnícka",
+      "BUS_STOP_NUM_1": 37,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Pavla Horova",
+      "BUS_STOP_NUM_2": 38,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 510,
+      "REAL_ROAD": 510,
+      "DELAY": 47,
+      "VEHICLE_NUMBER": 405,
+      "Order_In_Json_Id": 11,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 2,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23768, 49.00146]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "2",
+      "PLANNED_START": "17:35",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 8,
+      "Current_Stop": "Trojica",
+      "BUS_STOP_NUM_1": 1,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Poliklinika",
+      "BUS_STOP_NUM_2": 156,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 640,
+      "REAL_ROAD": 279,
+      "DELAY": -22,
+      "VEHICLE_NUMBER": 739,
+      "Order_In_Json_Id": 12,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 0,
+      "Street": "Okružná",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23012, 48.99445]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "38",
+      "PLANNED_START": "17:28",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 11,
+      "Current_Stop": "Duchnovičovo nám.",
+      "BUS_STOP_NUM_1": 198,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Nám.mládeže",
+      "BUS_STOP_NUM_2": 197,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 395,
+      "REAL_ROAD": 244,
+      "DELAY": -41,
+      "VEHICLE_NUMBER": 742,
+      "Order_In_Json_Id": 13,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -11,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.2118, 49.0018]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "23",
+      "PLANNED_START": "17:35",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 6,
+      "Current_Stop": "Levočská",
+      "BUS_STOP_NUM_1": 157,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Mýto",
+      "BUS_STOP_NUM_2": 158,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 805,
+      "REAL_ROAD": 805,
+      "DELAY": 115,
+      "VEHICLE_NUMBER": 386,
+      "Order_In_Json_Id": 14,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 12,
+      "Street": "Levočská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23562, 48.98985]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "38",
+      "PLANNED_START": "17:35",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 9,
+      "Current_Stop": "Duchnovičovo nám.",
+      "BUS_STOP_NUM_1": 198,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Prešovská univerzita",
+      "BUS_STOP_NUM_2": 199,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 441,
+      "REAL_ROAD": 441,
+      "DELAY": 50,
+      "VEHICLE_NUMBER": 725,
+      "Order_In_Json_Id": 15,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -1,
+      "Street": "17. novembra",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24744, 48.99075]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "22",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 11,
+      "Current_Stop": "Veľká pošta",
+      "BUS_STOP_NUM_1": 3,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Plzenská",
+      "BUS_STOP_NUM_2": 175,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 388,
+      "REAL_ROAD": 232,
+      "DELAY": -35,
+      "VEHICLE_NUMBER": 392,
+      "Order_In_Json_Id": 16,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -3,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24682, 48.98971]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "4",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 12,
+      "Current_Stop": "Čierny most",
+      "BUS_STOP_NUM_1": 4,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Železničná stanica",
+      "BUS_STOP_NUM_2": 35,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 790,
+      "REAL_ROAD": 21,
+      "DELAY": 64,
+      "VEHICLE_NUMBER": 731,
+      "Order_In_Json_Id": 17,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -10,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24782, 49.01434]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "41",
+      "PLANNED_START": "17:38",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 7,
+      "Current_Stop": "Koryto",
+      "BUS_STOP_NUM_1": 106,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Pod Šibeňou",
+      "BUS_STOP_NUM_2": 105,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 490,
+      "REAL_ROAD": 19,
+      "DELAY": -76,
+      "VEHICLE_NUMBER": 388,
+      "Order_In_Json_Id": 18,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -14,
+      "Street": "K Surdoku",
+      "isOnStop": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.27392, 49.01982]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "21",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 8,
+      "Current_Stop": "Šarišské Lúky",
+      "BUS_STOP_NUM_1": 81,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Vranovská",
+      "BUS_STOP_NUM_2": 82,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 480,
+      "REAL_ROAD": 259,
+      "DELAY": -158,
+      "VEHICLE_NUMBER": 356,
+      "Order_In_Json_Id": 19,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -5,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.27674, 48.97811]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "1",
+      "PLANNED_START": "17:15",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 16,
+      "Current_Stop": "Múzeum Solivar",
+      "BUS_STOP_NUM_1": 55,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Solivar",
+      "BUS_STOP_NUM_2": 56,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 296,
+      "REAL_ROAD": 296,
+      "DELAY": -424,
+      "VEHICLE_NUMBER": 736,
+      "Order_In_Json_Id": 20,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -15,
+      "Street": "Zborovská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22442, 49.02073]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "39",
+      "PLANNED_START": "17:45",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 1,
+      "Current_Stop": "Sídlisko III",
+      "BUS_STOP_NUM_1": 193,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Prostějovská",
+      "BUS_STOP_NUM_2": 192,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 415,
+      "REAL_ROAD": 415,
+      "DELAY": -15,
+      "VEHICLE_NUMBER": 398,
+      "Order_In_Json_Id": 21,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -13,
+      "Street": "Mirka Nešpora",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24061, 48.99766]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "5",
+      "PLANNED_START": "17:40",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 3,
+      "Current_Stop": "Trojica",
+      "BUS_STOP_NUM_1": 1,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Na Hlavnej",
+      "BUS_STOP_NUM_2": 2,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 394,
+      "REAL_ROAD": 175,
+      "DELAY": -29,
+      "VEHICLE_NUMBER": 737,
+      "Order_In_Json_Id": 22,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 18,
+      "Street": "Jarková",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24387, 48.98042]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "7",
+      "PLANNED_START": "17:45",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 1,
+      "Current_Stop": "Budovateľská",
+      "BUS_STOP_NUM_1": 21,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Pekárne",
+      "BUS_STOP_NUM_2": 22,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 333,
+      "REAL_ROAD": 333,
+      "DELAY": -10,
+      "VEHICLE_NUMBER": 711,
+      "Order_In_Json_Id": 23,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -5,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.2429, 49.00305]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "12",
+      "PLANNED_START": "17:15",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 22,
+      "Current_Stop": "Trojica",
+      "BUS_STOP_NUM_1": 1,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Duklianska",
+      "BUS_STOP_NUM_2": 78,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 540,
+      "REAL_ROAD": 456,
+      "DELAY": 83,
+      "VEHICLE_NUMBER": 401,
+      "Order_In_Json_Id": 24,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 3,
+      "Street": "Námestie mieru",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24876, 48.98689]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "8",
+      "PLANNED_START": "17:35",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 8,
+      "Current_Stop": "Železničná stanica",
+      "BUS_STOP_NUM_1": 35,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Čierny most",
+      "BUS_STOP_NUM_2": 4,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 650,
+      "REAL_ROAD": 283,
+      "DELAY": 28,
+      "VEHICLE_NUMBER": 745,
+      "Order_In_Json_Id": 25,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 4,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.27532, 48.9935]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "4",
+      "PLANNED_START": "17:46",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 1,
+      "Current_Stop": "Pod Šalgovíkom",
+      "BUS_STOP_NUM_1": 46,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Vansovej",
+      "BUS_STOP_NUM_2": 45,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 372,
+      "REAL_ROAD": 0,
+      "DELAY": -5,
+      "VEHICLE_NUMBER": 746,
+      "Order_In_Json_Id": 26,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "isOnStop": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22443, 49.00167]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "4",
+      "PLANNED_START": "17:26",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 13,
+      "Current_Stop": "Poliklinika",
+      "BUS_STOP_NUM_1": 156,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Clementisova",
+      "BUS_STOP_NUM_2": 187,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 760,
+      "REAL_ROAD": 760,
+      "DELAY": 107,
+      "VEHICLE_NUMBER": 743,
+      "Order_In_Json_Id": 27,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 23,
+      "Street": "Levočská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.27705, 48.97837]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "1",
+      "PLANNED_START": "17:45",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 1,
+      "Current_Stop": "Solivar",
+      "BUS_STOP_NUM_1": 56,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Múzeum Solivar",
+      "BUS_STOP_NUM_2": 55,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 360,
+      "REAL_ROAD": 0,
+      "DELAY": -81,
+      "VEHICLE_NUMBER": 733,
+      "Order_In_Json_Id": 28,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -14,
+      "Street": "Zborovská",
+      "isOnStop": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24747, 48.98877]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "32",
+      "PLANNED_START": "17:37",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 7,
+      "Current_Stop": "Čierny most",
+      "BUS_STOP_NUM_1": 4,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Rusínska",
+      "BUS_STOP_NUM_2": 204,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 1230,
+      "REAL_ROAD": 130,
+      "DELAY": 125,
+      "VEHICLE_NUMBER": 350,
+      "Order_In_Json_Id": 29,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -14,
+      "Street": "Škultétyho",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23145, 49.025]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "14",
+      "PLANNED_START": "17:33",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 10,
+      "Current_Stop": "Bikoš",
+      "BUS_STOP_NUM_1": 131,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Dúbrava",
+      "BUS_STOP_NUM_2": 130,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 1120,
+      "REAL_ROAD": 985,
+      "DELAY": 86,
+      "VEHICLE_NUMBER": 364,
+      "Order_In_Json_Id": 30,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -6,
+      "Street": "Prostějovská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26941, 49.00023]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "32A",
+      "PLANNED_START": "17:45",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 1,
+      "Current_Stop": "Sibírska",
+      "BUS_STOP_NUM_1": 36,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Karpatská",
+      "BUS_STOP_NUM_2": 41,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 716,
+      "REAL_ROAD": 266,
+      "DELAY": -34,
+      "VEHICLE_NUMBER": 382,
+      "Order_In_Json_Id": 31,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -13,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.27051, 49.0118]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "28",
+      "PLANNED_START": "17:32",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 8,
+      "Current_Stop": "Nižnianska",
+      "BUS_STOP_NUM_1": 507,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Kalinčiakova",
+      "BUS_STOP_NUM_2": 95,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 192,
+      "REAL_ROAD": 192,
+      "DELAY": -5,
+      "VEHICLE_NUMBER": 362,
+      "Order_In_Json_Id": 32,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 13,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24535, 48.99154]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "24",
+      "PLANNED_START": "17:45",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 1,
+      "Current_Stop": "Veľká pošta",
+      "BUS_STOP_NUM_1": 3,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Čierny most",
+      "BUS_STOP_NUM_2": 4,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 220,
+      "REAL_ROAD": 110,
+      "DELAY": -47,
+      "VEHICLE_NUMBER": 387,
+      "Order_In_Json_Id": 33,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -14,
+      "Street": "Pavlovičovo námestie",
+      "isOnStop": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24207, 49.00277]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "1",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 10,
+      "Current_Stop": "Trojica",
+      "BUS_STOP_NUM_1": 1,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Duklianska",
+      "BUS_STOP_NUM_2": 78,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 540,
+      "REAL_ROAD": 412,
+      "DELAY": -46,
+      "VEHICLE_NUMBER": 705,
+      "Order_In_Json_Id": 34,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 10,
+      "Street": "Námestie mieru",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26946, 48.95061]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "14",
+      "PLANNED_START": "17:30",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 8,
+      "Current_Stop": "Priemyselný park Záborské",
+      "BUS_STOP_NUM_1": 537,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "Rázc.Záborské",
+      "BUS_STOP_NUM_2": 17,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 3500,
+      "REAL_ROAD": 1826,
+      "DELAY": -140,
+      "VEHICLE_NUMBER": 352,
+      "Order_In_Json_Id": 35,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -3,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23931, 49.00019]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "22",
+      "PLANNED_START": "17:32",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 13,
+      "Current_Stop": "Na Hlavnej",
+      "BUS_STOP_NUM_1": 2,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Trojica",
+      "BUS_STOP_NUM_2": 1,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 560,
+      "REAL_ROAD": 560,
+      "DELAY": 102,
+      "VEHICLE_NUMBER": 367,
+      "Order_In_Json_Id": 36,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 2,
+      "Street": "Suchomlynská",
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24946, 48.95273]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "26",
+      "PLANNED_START": "17:35",
+      "DIRECTION": "P",
+      "BUS_STOP_ORDER_NUM": 5,
+      "Current_Stop": "Košická",
+      "BUS_STOP_NUM_1": 8,
+      "BUS_STOP_SUB_NUM_1": 1,
+      "Next_Stop": "SPINEA-Záturecká",
+      "BUS_STOP_NUM_2": 508,
+      "BUS_STOP_SUB_NUM_2": 1,
+      "PLANNED_ROAD": 2600,
+      "REAL_ROAD": 2591,
+      "DELAY": -83,
+      "VEHICLE_NUMBER": 3433,
+      "Order_In_Json_Id": 37,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": -13,
+      "isOnStop": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.26268, 48.97485]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "10",
+      "PLANNED_START": "17:37",
+      "DIRECTION": "T",
+      "BUS_STOP_ORDER_NUM": 6,
+      "Current_Stop": "Lesnícka",
+      "BUS_STOP_NUM_1": 37,
+      "BUS_STOP_SUB_NUM_1": 0,
+      "Next_Stop": "Lomnická",
+      "BUS_STOP_NUM_2": 61,
+      "BUS_STOP_SUB_NUM_2": 0,
+      "PLANNED_ROAD": 577,
+      "REAL_ROAD": 461,
+      "DELAY": -45,
+      "VEHICLE_NUMBER": 366,
+      "Order_In_Json_Id": 38,
+      "Type": "MHD",
+      "Current_Time": 1616518088799,
+      "CHANGE_OF_DELAY": 7,
+      "Street": "Švábska",
+      "isOnStop": false
+    }
+  }
+]

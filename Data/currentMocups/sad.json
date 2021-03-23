@@ -1,0 +1,1438 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.37076, 49.29641]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701402",
+      "Trip": 2,
+      "DELAY": -54,
+      "Dir": 0,
+      "TripTime": 1040,
+      "From": "Bardejov",
+      "Via": "Beloveža - Hažlín - Ortuťová",
+      "To": "Lipová",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 1,
+      "vehicleID": 1007812817,
+      "lastStopOrder": 15,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040823,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.43289, 49.20597]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701404",
+      "Trip": 20,
+      "DELAY": 18,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Bardejov",
+      "Via": "Kožany",
+      "To": "Giraltovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 2,
+      "vehicleID": 1007812857,
+      "lastStopOrder": 15,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040824,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.34919, 49.26132]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701407",
+      "Trip": 74,
+      "DELAY": 122,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Bardejov",
+      "Via": "Lukavica - Rešov - N.Voľa - Dubie - Hankovce - Marhaň",
+      "To": "Giraltovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 3,
+      "vehicleID": 1007812960,
+      "lastStopOrder": 32,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040826,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.34463, 49.14508]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701411",
+      "Trip": 33,
+      "DELAY": 27,
+      "Dir": 1,
+      "TripTime": 1059,
+      "From": "Bardejov",
+      "Via": "Lopúchov - Koprivnica",
+      "To": "Dubie",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 4,
+      "vehicleID": 1007813016,
+      "lastStopOrder": 26,
+      "isOnStop": false,
+      "destination": "Koprivnica, Jednota",
+      "destinationStopName": "Jednota",
+      "destinationCityName": "Koprivnica",
+      "lineID": 1007040827,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.31429, 49.08637]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701412",
+      "Trip": 12,
+      "DELAY": 22,
+      "Dir": 0,
+      "TripTime": 1040,
+      "From": "Bardejov",
+      "Via": "Prešov",
+      "To": "Košice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 5,
+      "vehicleID": 1007813048,
+      "lastStopOrder": 14,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040828,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25229, 48.98231]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701412",
+      "Trip": 125,
+      "DELAY": -264,
+      "Dir": 1,
+      "TripTime": 1065,
+      "From": "Bardejov",
+      "Via": "Prešov",
+      "To": "Košice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 6,
+      "vehicleID": 1007813103,
+      "lastStopOrder": 41,
+      "isOnStop": false,
+      "destination": "Košice, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Košice",
+      "lineID": 1007040828,
+      "lineType": 2,
+      "Street": "Košická"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24923, 48.88861]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701412",
+      "Trip": 126,
+      "DELAY": 65,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Bardejov",
+      "Via": "Prešov",
+      "To": "Košice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 7,
+      "vehicleID": 1007813060,
+      "lastStopOrder": 1,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040828,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.13312, 49.29664]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701418",
+      "Trip": 34,
+      "DELAY": 45,
+      "Dir": 0,
+      "TripTime": 1055,
+      "From": "Bardejov",
+      "Via": "Kurov - Kružľov - Krivé/Bogliarka",
+      "To": "Kríže",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 8,
+      "vehicleID": 1007813217,
+      "lastStopOrder": 4,
+      "isOnStop": false,
+      "destination": "Kružlov, Kruž.H., Piloimpr.",
+      "destinationStopName": "Kruž.H., Piloimpr.",
+      "destinationCityName": "Kružlov",
+      "lineID": 1007040831,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22932, 49.3058]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701419",
+      "Trip": 15,
+      "DELAY": 85,
+      "Dir": 1,
+      "TripTime": 1055,
+      "From": "Bardejov",
+      "Via": "Snakov - Hrabské - Livov",
+      "To": "Livovská Huta",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 9,
+      "vehicleID": 1007813272,
+      "lastStopOrder": 6,
+      "isOnStop": false,
+      "destination": "Livovská Huta",
+      "destinationStopName": "Livovská Huta",
+      "destinationCityName": "Livovská Huta",
+      "lineID": 1007040832,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22069, 49.30622]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701420",
+      "Trip": 14,
+      "DELAY": 87,
+      "Dir": 0,
+      "TripTime": 1040,
+      "From": "Bardejov",
+      "To": "Lenartov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 10,
+      "vehicleID": 1007813294,
+      "lastStopOrder": 46,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040833,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.83541, 49.25623]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701420",
+      "Trip": 18,
+      "DELAY": 45,
+      "Dir": 0,
+      "TripTime": 1050,
+      "From": "Bardejov",
+      "To": "Lenartov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 11,
+      "vehicleID": 1007813297,
+      "lastStopOrder": 4,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040833,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.15822, 49.32954]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701423",
+      "Trip": 38,
+      "DELAY": 80,
+      "Dir": 0,
+      "TripTime": 1035,
+      "From": "Bardejov",
+      "Via": "Zlaté",
+      "To": "Cigeľka/Frička",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 12,
+      "vehicleID": 1007813311,
+      "lastStopOrder": 29,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040834,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.20239, 49.32056]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701424",
+      "Trip": 8,
+      "DELAY": 49,
+      "Dir": 0,
+      "TripTime": 1040,
+      "From": "Bardejov",
+      "Via": "Zlaté",
+      "To": "Vyšný Tvarožec",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 13,
+      "vehicleID": 1007813342,
+      "lastStopOrder": 22,
+      "isOnStop": false,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040835,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.30917, 49.42026]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "701427",
+      "Trip": 34,
+      "DELAY": -238,
+      "Dir": 0,
+      "TripTime": 1070,
+      "From": "Bardejov",
+      "Via": "Zborov - Stebnická Huta",
+      "To": "Regetovka/Becherov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 15,
+      "vehicleID": 1007813366,
+      "lastStopOrder": 1,
+      "isOnStop": true,
+      "destination": "Bardejov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Bardejov",
+      "lineID": 1007040836,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 60,
+      "Current_Stop": "Becherov garáž",
+      "Current_Stop_ID": 149
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.30661, 48.95247]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707401",
+      "Trip": 25,
+      "DELAY": 29,
+      "Dir": 1,
+      "TripTime": 1055,
+      "From": "Prešov",
+      "Via": "Abranovce",
+      "To": "Zlatá Baňa",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 16,
+      "vehicleID": 1007813594,
+      "lastStopOrder": 7,
+      "isOnStop": true,
+      "destination": "Zlatá Baňa, Čierny les",
+      "destinationStopName": "Čierny les",
+      "destinationCityName": "Zlatá Baňa",
+      "lineID": 1007040863,
+      "lineType": 2,
+      "Current_Stop": "Dulova Ves, Jednota ",
+      "Current_Stop_ID": 1046
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.29938, 48.94432]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707405",
+      "Trip": 78,
+      "DELAY": 7,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Prešov",
+      "Via": "Žehňa - Brestov",
+      "To": "Varhaňovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 17,
+      "vehicleID": 1007813653,
+      "lastStopOrder": 28,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040865,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.27024, 48.87608]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707408",
+      "Trip": 45,
+      "DELAY": -64,
+      "Dir": 1,
+      "TripTime": 1045,
+      "From": "Prešov",
+      "Via": "Drienov - Lemešany",
+      "To": "Košice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 18,
+      "vehicleID": 1007813750,
+      "lastStopOrder": 14,
+      "isOnStop": true,
+      "destination": "Lemešany, nám.",
+      "destinationStopName": "nám.",
+      "destinationCityName": "Lemešany",
+      "lineID": 1007040867,
+      "lineType": 2,
+      "Current_Stop": "Drienov, hor. koniec ",
+      "Current_Stop_ID": 1135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24115, 48.92442]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707410",
+      "Trip": 47,
+      "DELAY": -18,
+      "Dir": 1,
+      "TripTime": 1055,
+      "From": "Prešov",
+      "Via": "Lemešany",
+      "To": "Košice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 19,
+      "vehicleID": 1007813808,
+      "lastStopOrder": 7,
+      "isOnStop": false,
+      "destination": "Košice, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Košice",
+      "lineID": 1007040868,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": -49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24006, 48.9416]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707410",
+      "Trip": 56,
+      "DELAY": 1,
+      "Dir": 0,
+      "TripTime": 1030,
+      "From": "Prešov",
+      "Via": "Lemešany",
+      "To": "Košice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 20,
+      "vehicleID": 1007813776,
+      "lastStopOrder": 24,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040868,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.16299, 48.95222]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707416",
+      "Trip": 52,
+      "DELAY": -14,
+      "Dir": 0,
+      "TripTime": 1035,
+      "From": "Prešov",
+      "Via": "Sedlice - Klenov",
+      "To": "Margecany",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 21,
+      "vehicleID": 1007813842,
+      "lastStopOrder": 31,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040869,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.14787, 48.91182]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707416",
+      "Trip": 75,
+      "DELAY": 97,
+      "Dir": 1,
+      "TripTime": 1020,
+      "From": "Prešov",
+      "Via": "Sedlice - Klenov",
+      "To": "Margecany",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 22,
+      "vehicleID": 1007813875,
+      "lastStopOrder": 25,
+      "isOnStop": false,
+      "destination": "Klenov, OcÚ",
+      "destinationStopName": "OcÚ",
+      "destinationCityName": "Klenov",
+      "lineID": 1007040869,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.11257, 48.9523]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707417",
+      "Trip": 47,
+      "DELAY": 65,
+      "Dir": 1,
+      "TripTime": 1010,
+      "From": "Prešov",
+      "Via": "Brežany - Kvačany",
+      "To": "Žipov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 23,
+      "vehicleID": 1007813905,
+      "lastStopOrder": 29,
+      "isOnStop": true,
+      "destination": "Bajerov, rázc.Žipov",
+      "destinationStopName": "rázc.Žipov",
+      "destinationCityName": "Bajerov",
+      "lineID": 1007040870,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.13167, 48.98274]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707418",
+      "Trip": 44,
+      "DELAY": 34,
+      "Dir": 0,
+      "TripTime": 1065,
+      "From": "Prešov",
+      "Via": "Župčany",
+      "To": "Kojatice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 25,
+      "vehicleID": 1007813928,
+      "lastStopOrder": 1,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040871,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.20849, 49.00055]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707418",
+      "Trip": 57,
+      "DELAY": -15,
+      "Dir": 1,
+      "TripTime": 1055,
+      "From": "Prešov",
+      "Via": "Župčany",
+      "To": "Kojatice",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 26,
+      "vehicleID": 1007813963,
+      "lastStopOrder": 7,
+      "isOnStop": false,
+      "destination": "Župčany, Biela hlina",
+      "destinationStopName": "Biela hlina",
+      "destinationCityName": "Župčany",
+      "lineID": 1007040871,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.22303, 49.00104]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707419",
+      "Trip": 15,
+      "DELAY": 15,
+      "Dir": 1,
+      "TripTime": 1055,
+      "From": "Prešov",
+      "Via": "Križovany - Ovčie - Víťaz",
+      "To": "Široké",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 27,
+      "vehicleID": 1007814024,
+      "lastStopOrder": 4,
+      "isOnStop": true,
+      "destination": "Víťaz, kostol",
+      "destinationStopName": "kostol",
+      "destinationCityName": "Víťaz",
+      "lineID": 1007040872,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": -45,
+      "Street": "Marka Čulena",
+      "Current_Stop": "Prešov, Levočská ul.",
+      "Current_Stop_ID": 461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.24742, 48.98845]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707419",
+      "Trip": 30,
+      "DELAY": -60,
+      "Dir": 0,
+      "TripTime": 1025,
+      "From": "Prešov",
+      "Via": "Križovany - Ovčie - Víťaz",
+      "To": "Široké",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 28,
+      "vehicleID": 1007813985,
+      "lastStopOrder": 53,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040872,
+      "lineType": 2,
+      "Street": "Radlinského"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.97913, 49.01936]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707421",
+      "Trip": 136,
+      "DELAY": 163,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Prešov",
+      "Via": "Lipovce - Široké",
+      "To": "Víťaz",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 29,
+      "vehicleID": 1007814070,
+      "lastStopOrder": 20,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040873,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.23397, 48.99193]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707424",
+      "Trip": 30,
+      "DELAY": -78,
+      "Dir": 0,
+      "TripTime": 1035,
+      "From": "Prešov",
+      "Via": "Jarovnice - Chminianska Nová Ves - Hermanovce - Štefanovce",
+      "To": "Renčišov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 30,
+      "vehicleID": 1007814120,
+      "lastStopOrder": 41,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040874,
+      "lineType": 2,
+      "Street": "17. novembra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.2518, 48.98504]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707430",
+      "Trip": 67,
+      "DELAY": -320,
+      "Dir": 1,
+      "TripTime": 1070,
+      "From": "Prešov",
+      "Via": "Medzany - Ostrovany - Uzovský Šalgov/Sabinov",
+      "To": "Lipany",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 31,
+      "vehicleID": 1007814189,
+      "lastStopOrder": 1,
+      "isOnStop": true,
+      "destination": "Sabinov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Sabinov",
+      "lineID": 1007040875,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0,
+      "Street": "Košická"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.96268, 49.15259]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707432",
+      "Trip": 27,
+      "DELAY": 11,
+      "Dir": 1,
+      "TripTime": 1005,
+      "From": "Prešov",
+      "Via": "Stará Ľubovňa",
+      "To": "Spišská Stará Ves / Podolínec",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 32,
+      "vehicleID": 1007814249,
+      "lastStopOrder": 20,
+      "isOnStop": false,
+      "destination": "Spišská Stará Ves, aut.st.",
+      "destinationStopName": "aut.st.",
+      "destinationCityName": "Spišská Stará Ves",
+      "lineID": 1007040877,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.14251, 49.09746]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707435",
+      "Trip": 23,
+      "DELAY": -29,
+      "Dir": 1,
+      "TripTime": 1015,
+      "From": "Prešov",
+      "Via": "Ratvaj",
+      "To": "Jakubovany",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 33,
+      "vehicleID": 1007814275,
+      "lastStopOrder": 32,
+      "isOnStop": false,
+      "destination": "Jakubovany, hasičská zbrojnica",
+      "destinationStopName": "hasičská zbrojnica",
+      "destinationCityName": "Jakubovany",
+      "lineID": 1007040878,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.2205, 49.116]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707437",
+      "Trip": 31,
+      "DELAY": -250,
+      "Dir": 1,
+      "TripTime": 1030,
+      "From": "Prešov",
+      "Via": "Ratvaj - Terňa, Babin Potok",
+      "To": "Závadka",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 34,
+      "vehicleID": 1007814328,
+      "lastStopOrder": 29,
+      "isOnStop": true,
+      "destination": "Terňa, potraviny",
+      "destinationStopName": "potraviny",
+      "destinationCityName": "Terňa",
+      "lineID": 1007040880,
+      "lineType": 2,
+      "Current_Stop": "Terňa, Babin Potok",
+      "Current_Stop_ID": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.2707, 49.01701]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707442",
+      "Trip": 70,
+      "DELAY": 120,
+      "Dir": 0,
+      "TripTime": 1050,
+      "From": "Prešov",
+      "Via": "Okružná - Šarišská Poruba - Nemcovce",
+      "To": "Chmeľov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 35,
+      "vehicleID": 1007814396,
+      "lastStopOrder": 36,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040882,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.33273, 49.04781]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707444",
+      "Trip": 39,
+      "DELAY": 157,
+      "Dir": 1,
+      "TripTime": 1045,
+      "From": "Prešov",
+      "Via": "Čeľovce / Chmeľov",
+      "To": "Giraltovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 36,
+      "vehicleID": 1007814469,
+      "lastStopOrder": 8,
+      "isOnStop": false,
+      "destination": "Giraltovce, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Giraltovce",
+      "lineID": 1007040883,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.5207, 49.11689]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707445",
+      "Trip": 36,
+      "DELAY": -280,
+      "Dir": 0,
+      "TripTime": 1070,
+      "From": "Prešov",
+      "Via": "Chmeľov - Giraltovce - Fijaš - Domaša",
+      "To": "Stropkov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 37,
+      "vehicleID": 1007814492,
+      "lastStopOrder": 21,
+      "isOnStop": true,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040884,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 0,
+      "Current_Stop": "Giraltovce,,AS",
+      "Current_Stop_ID": 1903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.57152, 49.29437]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707446",
+      "Trip": 22,
+      "DELAY": 95,
+      "Dir": 0,
+      "TripTime": 1035,
+      "From": "Prešov",
+      "Via": "Hanušovce nad Topľou - Babie - Giraltovce",
+      "To": "Stropkov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 38,
+      "vehicleID": 1007814526,
+      "lastStopOrder": 12,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040885,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.36775, 49.04477]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707448",
+      "Trip": 9,
+      "DELAY": 26,
+      "Dir": 1,
+      "TripTime": 1045,
+      "From": "Prešov",
+      "Via": "Radvanovce - Pavlovce - Hanušovce nad Toplou",
+      "To": "Ruská Voľa",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 39,
+      "vehicleID": 1007814573,
+      "lastStopOrder": 10,
+      "isOnStop": false,
+      "destination": "Pavlovce, otoč.",
+      "destinationStopName": "otoč.",
+      "destinationCityName": "Pavlovce",
+      "lineID": 1007040887,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25251, 48.99641]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "707449",
+      "Trip": 10,
+      "DELAY": 562,
+      "Dir": 0,
+      "TripTime": 1000,
+      "From": "Prešov",
+      "Via": "Vranov nad Topľou - Strážske - Humenné",
+      "To": "Snina / Michalovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 40,
+      "vehicleID": 1007814580,
+      "lastStopOrder": 52,
+      "isOnStop": true,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040888,
+      "lineType": 2,
+      "Street": "Moyzesova",
+      "Current_Stop": "Prešov,Nemocnica J.A.Reimana",
+      "Current_Stop_ID": 2355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.98527, 49.19581]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708401",
+      "Trip": 24,
+      "DELAY": 23,
+      "Dir": 0,
+      "TripTime": 1065,
+      "From": "Lipany",
+      "Via": "Lúčka",
+      "To": "Potoky",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 41,
+      "vehicleID": 1007814655,
+      "lastStopOrder": 2,
+      "isOnStop": true,
+      "destination": "Lipany, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Lipany",
+      "lineID": 1007040897,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25213, 48.99694]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708403",
+      "Trip": 20,
+      "DELAY": 46,
+      "Dir": 0,
+      "TripTime": 1060,
+      "From": "Vyšný Slavkov / T.Potok",
+      "Via": "Brezovica - Lipany - Prešov",
+      "To": "Košice, U.S.Steel",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 42,
+      "vehicleID": 1007814707,
+      "lastStopOrder": 4,
+      "isOnStop": false,
+      "destination": "Lipany, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Lipany",
+      "lineID": 1007040899,
+      "lineType": 2,
+      "CHANGE_OF_DELAY": 89,
+      "Street": "Moyzesova"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.9534, 49.13626]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708404",
+      "Trip": 46,
+      "DELAY": 230,
+      "Dir": 0,
+      "TripTime": 1060,
+      "From": "Lipany",
+      "Via": "Dubovica",
+      "To": "Ďačov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 43,
+      "vehicleID": 1007814825,
+      "lastStopOrder": 7,
+      "isOnStop": false,
+      "destination": "Lipany, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Lipany",
+      "lineID": 1007040900,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.89464, 49.16624]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708411",
+      "Trip": 10,
+      "DELAY": 30,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Prešov",
+      "Via": "Sabinov - Lipany - Oľšov - Poloma",
+      "To": "Bajerovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 45,
+      "vehicleID": 1007814864,
+      "lastStopOrder": 19,
+      "isOnStop": false,
+      "destination": "Lipany, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Lipany",
+      "lineID": 1007040901,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.08939, 49.10385]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708452",
+      "Trip": 1,
+      "DELAY": -309,
+      "Dir": 1,
+      "TripTime": 1070,
+      "From": "Hanigovce",
+      "Via": "Jakubova Voľa - Sabinov",
+      "To": "Jakubovany",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 46,
+      "vehicleID": 1007814980,
+      "lastStopOrder": 15,
+      "isOnStop": true,
+      "destination": "Jakubovany, hasičská zbrojnica",
+      "destinationStopName": "hasičská zbrojnica",
+      "destinationCityName": "Jakubovany",
+      "lineID": 1007040903,
+      "lineType": 2,
+      "Current_Stop": "Sabinov,,AS",
+      "Current_Stop_ID": 2316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.1131, 49.14154]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708455",
+      "Trip": 37,
+      "DELAY": 53,
+      "Dir": 1,
+      "TripTime": 1055,
+      "From": "Sabinov",
+      "To": "Drienica",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 47,
+      "vehicleID": 1007815039,
+      "lastStopOrder": 9,
+      "isOnStop": false,
+      "destination": "Drienica, hotel Javorná",
+      "destinationStopName": "hotel Javorná",
+      "destinationCityName": "Drienica",
+      "lineID": 1007040905,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.60323, 48.9389]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708459",
+      "Trip": 24,
+      "DELAY": -11,
+      "Dir": 0,
+      "TripTime": 1055,
+      "From": "Sabinov / Prešov",
+      "Via": "Široké - Krompachy",
+      "To": "Spišská Nová Ves",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 48,
+      "vehicleID": 1007815051,
+      "lastStopOrder": 20,
+      "isOnStop": false,
+      "destination": "Prešov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Prešov",
+      "lineID": 1007040906,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.08769, 49.08461]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708459",
+      "Trip": 118,
+      "DELAY": 116,
+      "Dir": 0,
+      "TripTime": 1014,
+      "From": "Sabinov / Prešov",
+      "Via": "Široké - Krompachy",
+      "To": "Spišská Nová Ves",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 49,
+      "vehicleID": 1007815058,
+      "lastStopOrder": 60,
+      "isOnStop": false,
+      "destination": "Sabinov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Sabinov",
+      "lineID": 1007040906,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.25148, 48.98335]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708459",
+      "Trip": 231,
+      "DELAY": -36,
+      "Dir": 1,
+      "TripTime": 1065,
+      "From": "Sabinov / Prešov",
+      "Via": "Široké - Krompachy",
+      "To": "Spišská Nová Ves",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 50,
+      "vehicleID": 1007815084,
+      "lastStopOrder": 9,
+      "isOnStop": false,
+      "destination": "Poprad, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Poprad",
+      "lineID": 1007040906,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.0853, 49.08285]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708461",
+      "Trip": 8,
+      "DELAY": 91,
+      "Dir": 0,
+      "TripTime": 1045,
+      "From": "Sabinov",
+      "Via": "Uzovský Šalgov - Renčišov",
+      "To": "Hermanovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 51,
+      "vehicleID": 1007815088,
+      "lastStopOrder": 18,
+      "isOnStop": false,
+      "destination": "Sabinov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Sabinov",
+      "lineID": 1007040907,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.09442, 49.09116]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708461",
+      "Trip": 46,
+      "DELAY": 104,
+      "Dir": 0,
+      "TripTime": 1062,
+      "From": "Sabinov",
+      "Via": "Uzovský Šalgov - Renčišov",
+      "To": "Hermanovce",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 52,
+      "vehicleID": 1007815097,
+      "lastStopOrder": 23,
+      "isOnStop": false,
+      "destination": "Sabinov, AS",
+      "destinationStopName": "AS",
+      "destinationCityName": "Sabinov",
+      "lineID": 1007040907,
+      "lineType": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.04987, 49.16347]
+    },
+    "properties": {
+      "ROUTE_NUMBER": "708468",
+      "Trip": 41,
+      "DELAY": 28,
+      "Dir": 1,
+      "TripTime": 1050,
+      "From": "Sabinov",
+      "Via": "Červená Voda - Jakovany / Peč. N. Ves - Ľutina",
+      "To": "Olejníkov",
+      "Type": "SAD",
+      "Current_Time": 1616518127208,
+      "Order_In_Json_Id": 53,
+      "vehicleID": 1007815202,
+      "lastStopOrder": 23,
+      "isOnStop": false,
+      "destination": "Olejníkov, Majdan, rázc.",
+      "destinationStopName": "Majdan, rázc.",
+      "destinationCityName": "Olejníkov",
+      "lineID": 1007040909,
+      "lineType": 2
+    }
+  }
+]
