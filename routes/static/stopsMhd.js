@@ -1,9 +1,9 @@
 const express = require("express");
 const router = express.Router();
-const stops = require('../../Data/MhdZAS.json')
+const stops = require('../../Data/mhd_Stops.json')
 
 router.get("/", async (req, res) => {
-  res.send(stops);
+  res.send(stops.features);
 });
 
 module.exports = router;

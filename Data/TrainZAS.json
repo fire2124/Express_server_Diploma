@@ -1,1 +1,112 @@
-[{"type":"Feature","geometry":{"type":"Point","coordinates":[21.249211,48.982111]},"properties":{"Type":"Stop_Train","stopID":1,"stopName":"žel.st.","stopCity":"Prešov","description":"Prešov, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.234013,48.994214]},"properties":{"Type":"Stop_Train","stopID":2,"stopName":"žel.st.","stopCity":"Prešov mesto","description":"Prešov mesto, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.320515,49.043755]},"properties":{"Type":"Stop_Train","stopID":3,"stopName":"žel.st.","stopCity":"Kapušany pri Prešove","description":"Kapušany pri Prešove, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.334225,49.067228]},"properties":{"Type":"Stop_Train","stopID":4,"stopName":"žel.st.","stopCity":"Fulianka","description":"Fulianka, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.267085,49.016184]},"properties":{"Type":"Stop_Train","stopID":5,"stopName":"žel.st.","stopCity":"Šarišské Lúky","description":"Šarišské Lúky, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.306761,49.088372]},"properties":{"Type":"Stop_Train","stopID":6,"stopName":"žel.st.","stopCity":"Tulčík","description":"Tulčík, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.240864,48.957401]},"properties":{"Type":"Stop_Train","stopID":7,"stopName":"žel.st.","stopCity":"Haniska pri Prešove","description":"Haniska pri Prešove , žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.24743,48.926179]},"properties":{"Type":"Stop_Train","stopID":8,"stopName":"žel.st.","stopCity":"Kendice","description":"Kendice, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.202956,49.044834]},"properties":{"Type":"Stop_Train","stopID":9,"stopName":"žel.st.","stopCity":"Veľký Šariš","description":"Veľký Šariš, žel.st."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[21.359077,49.047268]},"properties":{"Type":"Stop_Train","stopID":10,"stopName":"žel.st.","stopCity":"Lada","description":"Lada, žel.st."}}]
+[
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.249211, 48.982111] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 1,
+      "stopName": "žel.st.",
+      "stopCity": "Prešov",
+      "description": "Prešov, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.234013, 48.994214] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 2,
+      "stopName": "žel.st.",
+      "stopCity": "Prešov mesto",
+      "description": "Prešov mesto, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.320515, 49.043755] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 3,
+      "stopName": "žel.st.",
+      "stopCity": "Kapušany pri Prešove",
+      "description": "Kapušany pri Prešove, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.334225, 49.067228] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 4,
+      "stopName": "žel.st.",
+      "stopCity": "Fulianka",
+      "description": "Fulianka, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.267085, 49.016184] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 5,
+      "stopName": "žel.st.",
+      "stopCity": "Šarišské Lúky",
+      "description": "Šarišské Lúky, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.306761, 49.088372] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 6,
+      "stopName": "žel.st.",
+      "stopCity": "Tulčík",
+      "description": "Tulčík, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.240864, 48.957401] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 7,
+      "stopName": "žel.st.",
+      "stopCity": "Haniska pri Prešove",
+      "description": "Haniska pri Prešove , žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.24743, 48.926179] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 8,
+      "stopName": "žel.st.",
+      "stopCity": "Kendice",
+      "description": "Kendice, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.202956, 49.044834] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 9,
+      "stopName": "žel.st.",
+      "stopCity": "Veľký Šariš",
+      "description": "Veľký Šariš, žel.st."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [21.359077, 49.047268] },
+    "properties": {
+      "Type": "Stop_Train",
+      "stopID": 10,
+      "stopName": "žel.st.",
+      "stopCity": "Lada",
+      "description": "Lada, žel.st."
+    }
+  }
+]
