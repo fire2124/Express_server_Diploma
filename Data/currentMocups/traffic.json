@@ -189,25 +189,6 @@
   },
   {
     "type": "Feature",
-    "properties": {
-      "region_ID": 8,
-      "region_name": "Košický kraj",
-      "Type": "Traffic",
-      "district_ID": 806,
-      "district_Name": "Košice-okolie",
-      "district_AreaLevel": 1,
-      "delaySeconds": 0,
-      "city": "Šemša",
-      "category_Code": "ZD8",
-      "category_Name": "Iná situácia (Krízová situácia)",
-      "status_Code": "E0010",
-      "status_Name": "Oznamuje polícia",
-      "description": "Šemša, od Košíc je čiastočne na ceste zlomený strom je to za zákrutou",
-      "Current_Time": 1616453728128
-    }
-  },
-  {
-    "type": "Feature",
     "geometry": {
       "type": "LineString",
       "coordinates": [
