@@ -21,7 +21,6 @@ router.get("/", async (req, res) => {
       if (e.geometry.type === "LineString") {
         e.geometry.coordinates.map((x) => {
           let array = [];
-          console.log(x);
           array.push(x[1], x[0]);
           coordinates.push(array);
         });
