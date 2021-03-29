@@ -1,1 +1,318 @@
-{"type":"FeatureCollection","name":"Elastic_traffic_3hours","features":[]}
+{
+    "type": "FeatureCollection",
+    "name": "Elastic_traffic_3hours",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.439433154298868,
+                    49.04630065229088
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 713,
+                "district_Name": "Vranov nad Topľou",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "city": "Vranov nad Topľou",
+                "street": "Nemocničná",
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia cesty I/18 a I/21",
+                "description": "Stavba: Rekonštrukcia cesty I/18 a I/21 Petič - Hanušovce n/T. Uzávierka: čiastočná. Doprava riadená dočasným dopravným značením za pomoci svetelnej signalizácie. Rozhodnutie OU pre CD a PK Prešov: OU-PO-OCDPK-2020/027104-002 Povolenie OU pre CD a PK Prešov: OU-PO-OCDPK-2020/026997-002",
+                "houseNoFirst": 578,
+                "houseNoSecond": 4,
+                "Current_Time": 1617023432966,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.152424890456576,
+                    48.72497930643763
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 806,
+                "district_Name": "Košice-okolie",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "cesta III/3404 Nižný Klátov, ul. Mlynky",
+                "description": "Stavebná úprava cesty III/3404 v obci Nižný Klátov, ul. Mlynky. Čiastočné uzávierky cesty sú označené dočasným dopravným značením.",
+                "Current_Time": 1617023448004,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.625586299741993,
+                        48.91545900022916
+                    ],
+                    [
+                        20.624847899849836,
+                        48.91545670023499
+                    ],
+                    [
+                        20.62415130036442,
+                        48.91545450000943
+                    ],
+                    [
+                        20.62346520038808,
+                        48.91552579978243
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 810,
+                "district_Name": "Spišská Nová Ves",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD2",
+                "category_Name": "Neprejazdná cesta v jednom smere",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia oporného múra",
+                "description": "Čiastočná uzávierka prvého jazdného pruhu v smere staničenia cesty III/3244 v cca kumulatívnom km 7,240-7,390 na ul. Michalskej v obci Markušovce.",
+                "Current_Time": 1617023448004,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.874477880799365,
+                        49.26612584281035
+                    ],
+                    [
+                        20.87610866388047,
+                        49.26364740372116
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 710,
+                "district_Name": "Stará Ľubovňa",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD2",
+                "category_Name": "Neprejazdná cesta v jednom smere",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "čiastočná uzávierka Stará Ľubovňa",
+                "description": "čiastočná uzávierka cesty č. I/68 v km 34,310 - 34,610, čiže v dĺžke 300 m, v intraviláne obce Ľubotín z dôvodu realizácie stavby\"ČOV a kanalizácia, I. a II. etapa Ľubotín Vodovod\". Prejazdný profil bude zúžený o jeden jazdný pruh, doprava bude vedená v pravom jazdnom pruhu. Pracovisko bude označené prenosným dopravným značením a svetelnou signalizáciou. Rozhodnutie CSO č.:OU-PO-OCDPK-2020 I 023290-02.",
+                "Current_Time": 1617023448004,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        20.063621253714963,
+                        49.11211362833562
+                    ],
+                    [
+                        20.063621253714963,
+                        49.11211362833562
+                    ],
+                    [
+                        20.063621253714963,
+                        49.11211362833562
+                    ],
+                    [
+                        20.06374999974768,
+                        49.11208553675895
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 706,
+                "district_Name": "Poprad",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD2",
+                "category_Name": "Neprejazdná cesta v jednom smere",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia mosta 537-019 nad zubačkou",
+                "description": "Rekonštrukcia mosta 537-019 nad zubačkou, cesta II/537 prejazdná v jednom jazdnom pruhu v km 33,200",
+                "Current_Time": 1617023448004,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.33214423160119,
+                        49.042683597197794
+                    ],
+                    [
+                        21.3368649194674,
+                        49.044315160471676
+                    ],
+                    [
+                        21.340298147006454,
+                        49.04521531039884
+                    ],
+                    [
+                        21.343645543857036,
+                        49.04510279254902
+                    ],
+                    [
+                        21.35059782962363,
+                        49.04386507939782
+                    ],
+                    [
+                        21.354288549228112,
+                        49.04330247232708
+                    ],
+                    [
+                        21.359438390536706,
+                        49.04386507939782
+                    ],
+                    [
+                        21.362442464633375,
+                        49.04487775608561
+                    ],
+                    [
+                        21.3649315545992,
+                        49.04532782799405
+                    ],
+                    [
+                        21.369308919711496,
+                        49.04470897806974
+                    ],
+                    [
+                        21.37368628482379,
+                        49.04397760004818
+                    ],
+                    [
+                        21.377548665805236,
+                        49.04437142031949
+                    ],
+                    [
+                        21.38029524783648,
+                        49.04465271860382
+                    ],
+                    [
+                        21.382870168490772,
+                        49.044315160471676
+                    ],
+                    [
+                        21.38493010501421,
+                        49.04386507939782
+                    ]
+                ]
+            },
+            "properties": {
+                "region_ID": 7,
+                "region_name": "Prešovský kraj",
+                "Type": "Traffic",
+                "district_ID": 707,
+                "district_Name": "Prešov",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD3",
+                "category_Name": "Spomalená premávka",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "Rekonštrukcia cesty I/18 Lipníky",
+                "description": "Rekonštrukcia cesty I/18 Kapušany - Nemcovce.",
+                "Current_Time": 1617023448004,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257208864594027,
+                    48.740975302276496
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 802,
+                "district_Name": "Košice I",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0010",
+                "status_Name": "Oznamuje polícia",
+                "title": "KE II/547 most - Mlynský náhon",
+                "description": "Čiastočná uzávierka cesty II/547 v Košiciach na ul. Hlinkovej z dôvodu realizácie rekonštrukcie mosta - Mlynský náhon v staničení  1,273 km. Realizátor stavby Dopravné staviteľstvo Bardejov s.r.o..ô",
+                "Current_Time": 1617023463002,
+                "count_of_obstacles": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.48339426914824,
+                    48.85072573886683
+                ]
+            },
+            "properties": {
+                "region_ID": 8,
+                "region_name": "Košický kraj",
+                "Type": "Traffic",
+                "district_ID": 810,
+                "district_Name": "Spišská Nová Ves",
+                "district_AreaLevel": 1,
+                "delaySeconds": 0,
+                "category_Code": "ZD7",
+                "category_Name": "Dopravná situácia",
+                "status_Code": "E0008",
+                "status_Name": "Oznamuje občan",
+                "title": "zosuv cestného svahu v okr. RV",
+                "description": "zákaz vjazdu nad 3,5 t na cestu II/533 v úseku od križ. s cestou II/535",
+                "Current_Time": 1617023463002,
+                "count_of_obstacles": 1
+            }
+        }
+    ]
+}
