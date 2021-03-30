@@ -26,7 +26,8 @@
         "description": "Stavba: Rekonštrukcia cesty I/18 a I/21 Petič - Hanušovce n/T. Uzávierka: čiastočná. Doprava riadená dočasným dopravným značením za pomoci svetelnej signalizácie. Rozhodnutie OU pre CD a PK Prešov: OU-PO-OCDPK-2020/027104-002 Povolenie OU pre CD a PK Prešov: OU-PO-OCDPK-2020/026997-002",
         "houseNoFirst": 578,
         "houseNoSecond": 4,
-        "Current_Time": 1615220220412
+        "Current_Time": 1615220220412,
+        "count_of_obstacles": 4
       }
     },
     {
@@ -49,7 +50,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "KE II/547 most - Mlynský náhon",
         "description": "Čiastočná uzávierka cesty II/547 v Košiciach na ul. Hlinkovej z dôvodu realizácie rekonštrukcie mosta - Mlynský náhon v staničení  1,273 km. Realizátor stavby Dopravné staviteľstvo Bardejov s.r.o..ô",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 5
       }
     },
     {
@@ -77,7 +79,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "Rekonštrukcia oporného múra",
         "description": "Čiastočná uzávierka prvého jazdného pruhu v smere staničenia cesty III/3244 v cca kumulatívnom km 7,240-7,390 na ul. Michalskej v obci Markušovce.",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 3
       }
     },
     {
@@ -105,7 +108,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "Rekonštrukcia mosta 537-019 nad zubačkou",
         "description": "Rekonštrukcia mosta 537-019 nad zubačkou, cesta II/537 prejazdná v jednom jazdnom pruhu v km 33,200",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 5
       }
     },
     {
@@ -151,7 +155,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "Čiastočná uzávierka na ceste III/3460",
         "description": "Čiastočná uzávierka na ceste III/3460 medzi obcami Obišovce a Ruské Pekľany z dôvodu prepadu vozovky.",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 2
       }
     },
     {
@@ -220,7 +225,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "uzávierka cesty II/549 za Úhorná smer RV",
         "description": "Uzávierka cesty II/549 v úseku za obcou Úhorná po okr. hr. GL/RV z dôvodu nevykonávania zimnej údržby predmetnej cesty. Uzávera vyznačená dopravným značením.",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 1
       }
     },
     {
@@ -246,7 +252,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "čiastočná uzávierka Stará Ľubovňa",
         "description": "čiastočná uzávierka cesty č. I/68 v km 34,310 - 34,610, čiže v dĺžke 300 m, v intraviláne obce Ľubotín z dôvodu realizácie stavby\"ČOV a kanalizácia, I. a II. etapa Ľubotín Vodovod\". Prejazdný profil bude zúžený o jeden jazdný pruh, doprava bude vedená v pravom jazdnom pruhu. Pracovisko bude označené prenosným dopravným značením a svetelnou signalizáciou. Rozhodnutie CSO č.:OU-PO-OCDPK-2020 I 023290-02.",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 3
       }
     },
     {
@@ -269,7 +276,8 @@
         "status_Name": "Oznamuje občan",
         "title": "zosuv cestného svahu v okr. RV",
         "description": "zákaz vjazdu nad 3,5 t na cestu II/533 v úseku od križ. s cestou II/535",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 2
       }
     },
     {
@@ -308,7 +316,8 @@
         "status_Name": "Oznamuje polícia",
         "title": "Rekonštrukcia cesty I/18 Lipníky",
         "description": "Rekonštrukcia cesty I/18 Kapušany - Nemcovce.",
-        "Current_Time": 1615220520500
+        "Current_Time": 1615220520500,
+        "count_of_obstacles": 5
       }
     }
   ]

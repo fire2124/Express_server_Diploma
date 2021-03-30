@@ -26,7 +26,7 @@
                 "title": "zosuv cestného svahu",
                 "description": "zosuv cestného svahu a poškodenie cestného telesa cesty III/3244 v km 16,099",
                 "Current_Time": 1616677132023,
-                "count_of_obstacles": 1
+                "count_of_obstacles": 3
             }
         },
         {
@@ -59,7 +59,7 @@
                 "title": "čiastočná uzávierka Stará Ľubovňa",
                 "description": "čiastočná uzávierka cesty č. I/68 v km 34,310 - 34,610, čiže v dĺžke 300 m, v intraviláne obce Ľubotín z dôvodu realizácie stavby\"ČOV a kanalizácia, I. a II. etapa Ľubotín Vodovod\". Prejazdný profil bude zúžený o jeden jazdný pruh, doprava bude vedená v pravom jazdnom pruhu. Pracovisko bude označené prenosným dopravným značením a svetelnou signalizáciou. Rozhodnutie CSO č.:OU-PO-OCDPK-2020 I 023290-02.",
                 "Current_Time": 1616677132079,
-                "count_of_obstacles": 1
+                "count_of_obstacles": 4
             }
         },
         {
@@ -264,7 +264,7 @@
                 "title": "uzávierka cesty II/549 za Úhorná smer RV",
                 "description": "Uzávierka cesty II/549 v úseku za obcou Úhorná po okr. hr. GL/RV z dôvodu nevykonávania zimnej údržby predmetnej cesty. Uzávera vyznačená dopravným značením.",
                 "Current_Time": 1616677132079,
-                "count_of_obstacles": 1
+                "count_of_obstacles": 5
             }
         },
         {
@@ -489,7 +489,7 @@
                 "houseNoFirst": 578,
                 "houseNoSecond": 4,
                 "Current_Time": 1616677132079,
-                "count_of_obstacles": 1
+                "count_of_obstacles": 2
             }
         }
     ]
