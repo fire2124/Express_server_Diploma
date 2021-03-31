@@ -1,36 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "name": "isOnStop",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.45027,
-                    49.16751
-                ]
-            },
-            "properties": {
-                "Time": "2021-03-23T04:00:39.816Z",
-                "Current_Stop": "Marhaň, rázc. Koprivnica",
-                "seconds": 45
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.45038,
-                    49.1675
-                ]
-            },
-            "properties": {
-                "Time": "2021-03-23T11:32:52.822Z",
-                "Current_Stop": "Marhaň, rázc. Koprivnica",
-                "seconds": 45
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "name": "isOnStop",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.45027, 49.16751]
+      },
+      "properties": {
+        "Time": "2021-03-23T04:00:39.816Z",
+        "Current_Stop": "Marhaň, rázc. Koprivnica",
+        "seconds": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.45038, 49.1675]
+      },
+      "properties": {
+        "Time": "2021-03-23T11:32:52.822Z",
+        "Current_Stop": "Marhaň, rázc. Koprivnica",
+        "seconds": 45
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.45038, 49.1675]
+      },
+      "properties": {
+        "Time": "2021-03-23T11:50:52.822Z",
+        "Current_Stop": "Marhaň, rázc. Koprivnica",
+        "seconds": 10
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.45038, 49.1675]
+      },
+      "properties": {
+        "Time": "2021-03-23T12:00:52.822Z",
+        "Current_Stop": "Marhaň, rázc. Koprivnica",
+        "seconds": 20
+      }
+    }
+  ]
 }
