@@ -54,7 +54,7 @@ router.post("/", async (req, res) => {
 //     function miliseconds(week, day, hrs, min, sec) {
 //         //from hours
 //         return (
-//             (week * 360 * 24 * 7 + day * 3600 * 24 + hrs * 60 * 60 + min * 60 + sec) *
+//             (week * 3600 * 24 * 7 + day * 3600 * 24 + hrs * 60 * 60 + min * 60 + sec) *
 //             1000
 //         );
 //     }
